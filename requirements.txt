@@ -1,0 +1,2 @@
+# Used only for future data processing and CI integration
+python>=3.10

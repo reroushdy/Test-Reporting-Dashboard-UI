@@ -1,0 +1,129 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Test Results Dashboard</title>
+
+  <link rel="stylesheet" href="./styles.css" />
+  <script src="./dashboard.js"></script>
+  
+</head>
+
+<body>
+  <header class="page-header">
+    <h1>Test Results Dashboard</h1>
+
+    <div class="header-meta">
+      <span><strong>Purpose:</strong> Visual representation of test results</span>
+      <span><strong>Environment:</strong> QA</span>
+      <span><strong>Timestamp:</strong> 2026-01-01 14:32</span>
+      <span><strong>Total Tests:</strong> 34</span>
+      <span class="overall-status pass">Overall Status: PASS</span>
+    </div>
+  </header>
+
+  <main class="dashboard">
+
+    <section class="cards">
+
+      <!-- SauceDemo Card -->
+      <article class="dashboard-card">
+        <h2>SauceDemo Automation Testing</h2>
+
+        <div class="chart-wrap">
+          <div class="donut" style="--p-pass: 86; --p-fail: 10; --p-pending: 4;">
+            <svg class="donut-svg" viewBox="0 0 36 36" aria-label="SauceDemo results donut">
+              <circle class="donut-bg" cx="18" cy="18" r="15.9"></circle>
+
+              <!-- pass -->
+              <circle class="donut-pass" cx="18" cy="18" r="15.9"
+                stroke-dasharray="86 14"></circle>
+
+              <!-- fail -->
+              <circle class="donut-fail" cx="18" cy="18" r="15.9"
+                stroke-dasharray="10 90"
+                stroke-dashoffset="-86"></circle>
+
+              <!-- pending -->
+              <circle class="donut-pending" cx="18" cy="18" r="15.9"
+                stroke-dasharray="4 96"
+                stroke-dashoffset="-96"></circle>
+            </svg>
+
+            <div class="donut-center">
+              <div class="donut-total">21</div>
+              <div class="donut-sub">Tests</div>
+              <div class="donut-micro">Pass 86%</div>
+            </div>
+          </div>
+        </div>
+
+        <ul class="legend">
+          <li class="pass"><span></span>Pass: 18</li>
+          <li class="fail"><span></span>Fail: 2</li>
+          <li class="pending"><span></span>Pending: 1</li>
+        </ul>
+
+        <div class="defects">
+          <h3>Defects</h3>
+          <ul>
+            <li>To Do: 2</li>
+            <li>In Progress: 1</li>
+            <li>Completed: 4</li>
+          </ul>
+        </div>
+      </article>
+
+      <!-- API Card -->
+      <article class="dashboard-card">
+        <h2>API Testing</h2>
+
+        <div class="chart-wrap">
+          <div class="donut" style="--p-pass: 77; --p-fail: 0; --p-pending: 23;">
+            <svg class="donut-svg" viewBox="0 0 36 36" aria-label="API results donut">
+              <circle class="donut-bg" cx="18" cy="18" r="15.9"></circle>
+
+              <!-- pass -->
+              <circle class="donut-pass" cx="18" cy="18" r="15.9"
+                stroke-dasharray="77 23"></circle>
+
+              <!-- fail -->
+              <circle class="donut-fail" cx="18" cy="18" r="15.9"
+                stroke-dasharray="0 100"
+                stroke-dashoffset="-77"></circle>
+
+              <!-- pending -->
+              <circle class="donut-pending" cx="18" cy="18" r="15.9"
+                stroke-dasharray="23 77"
+                stroke-dashoffset="-77"></circle>
+            </svg>
+
+            <div class="donut-center">
+              <div class="donut-total">13</div>
+              <div class="donut-sub">Tests</div>
+              <div class="donut-micro">Pass 77%</div>
+            </div>
+          </div>
+        </div>
+
+        <ul class="legend">
+          <li class="pass"><span></span>Pass: 10</li>
+          <li class="fail"><span></span>Fail: 0</li>
+          <li class="pending"><span></span>Pending: 3</li>
+        </ul>
+
+        <div class="defects">
+          <h3>Defects</h3>
+          <ul>
+            <li>To Do: 1</li>
+            <li>In Progress: 0</li>
+            <li>Completed: 2</li>
+          </ul>
+        </div>
+      </article>
+
+    </section>
+  </main>
+</body>
+</html>

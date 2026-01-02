@@ -1,0 +1,285 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 210 297"
+   version="1.1"
+   id="svg1"
+   inkscape:version="1.4.2 (ebf0e940, 2025-05-08)"
+   sodipodi:docname="reporting-dashboard.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#505050"
+     bordercolor="#eeeeee"
+     borderopacity="1"
+     inkscape:showpageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#505050"
+     inkscape:document-units="mm"
+     inkscape:zoom="0.87838103"
+     inkscape:cx="397.32188"
+     inkscape:cy="548.7368"
+     inkscape:window-width="1592"
+     inkscape:window-height="1135"
+     inkscape:window-x="0"
+     inkscape:window-y="25"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs1" />
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <rect
+       style="fill:#0b0c10;fill-opacity:1;fill-rule:evenodd;stroke-width:0.705468"
+       id="rect1-4"
+       width="214.46655"
+       height="299.40973"
+       x="-2.0838974"
+       y="-0.96454853" />
+    <g
+       id="use1-9"
+       style="fill:#1f2833;fill-opacity:1;stroke:none"
+       transform="matrix(1.3279347,0,0,2.6639424,5.4048975,-92.187378)">
+      <title
+         id="title1">Terminal/Interrupt</title>
+      <desc
+         id="desc1">A terminal point in a flowchart: start, stop, halt, etc.</desc>
+      <path
+         d="m 35,95 a 20,20 0 0 1 0,-40 h 80 a 20,20 0 0 1 0,40 z"
+         style="stroke-width:2"
+         id="path1" />
+    </g>
+    <g
+       id="use1-9-0"
+       style="fill:#1f2833;fill-opacity:1;stroke:none"
+       transform="matrix(1.3279347,0,0,2.6639424,5.4048975,30.818653)">
+      <title
+         id="title1-5">Terminal/Interrupt</title>
+      <desc
+         id="desc1-2">A terminal point in a flowchart: start, stop, halt, etc.</desc>
+      <path
+         d="m 35,95 a 20,20 0 0 1 0,-40 h 80 a 20,20 0 0 1 0,40 z"
+         style="stroke-width:2"
+         id="path1-2" />
+    </g>
+    <text
+       xml:space="preserve"
+       style="font-size:11.2557px;font-family:Futura;-inkscape-font-specification:'Futura, Normal';text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#ececec;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.224697"
+       x="7.3758483"
+       y="15.061285"
+       id="text2"
+       transform="scale(1.0049352,0.99508906)"><tspan
+         sodipodi:role="line"
+         id="tspan2"
+         style="fill:#ececec;stroke-width:0.224696"
+         x="7.3758483"
+         y="15.061285">Header: {}</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:8.06488px;font-family:Futura;-inkscape-font-specification:'Futura, Normal';text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#ececec;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.160997"
+       x="6.4190841"
+       y="28.695641"
+       id="text2-5"
+       transform="scale(1.0535522,0.94916986)"><tspan
+         sodipodi:role="line"
+         id="tspan2-7"
+         style="fill:#ececec;stroke-width:0.160996"
+         x="6.4190841"
+         y="28.695641">Purpose: {}</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:7.15821px;font-family:Futura;-inkscape-font-specification:'Futura, Normal';text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#ececec;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.142899"
+       x="56.006702"
+       y="28.118505"
+       id="text2-50"
+       transform="scale(1.025769,0.97487836)"><tspan
+         sodipodi:role="line"
+         id="tspan2-3"
+         style="fill:#ececec;stroke-width:0.142898"
+         x="56.006702"
+         y="28.118505">Timestamp: {}</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:7.15821px;font-family:Futura;-inkscape-font-specification:'Futura, Normal';text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#ececec;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.142899"
+       x="104.18637"
+       y="28.475019"
+       id="text2-50-2"
+       transform="scale(1.025769,0.97487836)"><tspan
+         sodipodi:role="line"
+         id="tspan2-3-5"
+         style="fill:#ececec;stroke-width:0.142898"
+         x="104.18637"
+         y="28.475019">Environment: {}</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:7.15821px;font-family:Futura;-inkscape-font-specification:'Futura, Normal';text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#ececec;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.142899"
+       x="5.4989033"
+       y="42.93819"
+       id="text2-50-7"
+       transform="scale(1.025769,0.97487836)"><tspan
+         sodipodi:role="line"
+         id="tspan2-3-6"
+         style="fill:#ececec;stroke-width:0.142898"
+         x="5.4989033"
+         y="42.93819">Total # of Test Cases: {}</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:7.15821px;font-family:Futura;-inkscape-font-specification:'Futura, Normal';text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#ececec;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.142899"
+       x="86.542847"
+       y="43.752285"
+       id="text2-50-7-4"
+       transform="scale(1.025769,0.97487836)"><tspan
+         sodipodi:role="line"
+         id="tspan2-3-6-7"
+         style="fill:#ececec;stroke-width:0.142898"
+         x="86.542847"
+         y="43.752285">Overall status: {}</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:9.36775px;font-family:Futura;-inkscape-font-specification:'Futura, Normal';text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#ececec;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.187007"
+       x="41.552975"
+       y="72.313408"
+       id="text2-50-9"
+       transform="scale(1.0199493,0.9804409)"><tspan
+         sodipodi:role="line"
+         id="tspan2-3-2"
+         style="fill:#ececec;stroke-width:0.187006"
+         x="41.552975"
+         y="72.313408">Test Case: {}</tspan></text>
+    <ellipse
+       style="fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#439b48;stroke-width:7.36814;stroke-dasharray:none;stroke-opacity:1"
+       id="path2"
+       cx="101.6607"
+       cy="106.12206"
+       rx="25.616886"
+       ry="24.26141" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.35px;font-family:Futura;-inkscape-font-specification:'Futura, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#ececec;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:2.30435;stroke-dasharray:none;stroke-opacity:1"
+       x="95.036316"
+       y="112.67411"
+       id="text3"
+       transform="scale(0.96185023,1.0396629)"><tspan
+         sodipodi:role="line"
+         id="tspan3"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.35px;font-family:Futura;-inkscape-font-specification:'Futura, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#ececec;fill-opacity:1;stroke:none;stroke-width:2.30435"
+         x="95.036316"
+         y="112.67411">% pass</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:8.46667px;font-family:Futura;-inkscape-font-specification:'Futura, Normal';text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#ececec;fill-rule:evenodd;stroke-width:5.56699"
+       x="101.75643"
+       y="95.469498"
+       id="text4"><tspan
+         sodipodi:role="line"
+         id="tspan4"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.46667px;font-family:Futura;-inkscape-font-specification:'Futura, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;stroke-width:5.567"
+         x="101.75643"
+         y="95.469498">#</tspan><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.46667px;font-family:Futura;-inkscape-font-specification:'Futura, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;stroke-width:5.567"
+         x="101.75643"
+         y="106.05283"
+         id="tspan5">tests</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444px;font-family:Futura;-inkscape-font-specification:'Futura, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;writing-mode:lr-tb;direction:ltr;text-anchor:middle;fill:#cccccc;fill-rule:evenodd;stroke-width:5.56699"
+       x="100.74501"
+       y="146.69272"
+       id="text6"><tspan
+         sodipodi:role="line"
+         id="tspan6"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444px;font-family:Futura;-inkscape-font-specification:'Futura, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:5.567;fill:#cccccc"
+         x="100.74501"
+         y="146.69272">Color legend, # of tests - pass, fail, pending</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444px;font-family:Futura;-inkscape-font-specification:'Futura, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;writing-mode:lr-tb;direction:ltr;text-anchor:middle;fill:#cccccc;fill-rule:evenodd;stroke-width:5.56699"
+       x="79.814003"
+       y="155.12677"
+       id="text7"><tspan
+         sodipodi:role="line"
+         id="tspan7"
+         style="stroke-width:5.567;fill:#cccccc"
+         x="79.814003"
+         y="155.12677">Defects reported and status</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:9.36775px;font-family:Futura;-inkscape-font-specification:'Futura, Normal';text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#ececec;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.187007"
+       x="43.583141"
+       y="196.52403"
+       id="text2-50-9-3"
+       transform="scale(1.0199493,0.9804409)"><tspan
+         sodipodi:role="line"
+         id="tspan2-3-2-6"
+         style="fill:#ececec;stroke-width:0.187006"
+         x="43.583141"
+         y="196.52403">Test Case: {}</tspan></text>
+    <ellipse
+       style="fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#439b48;stroke-width:7.36814;stroke-dasharray:none;stroke-opacity:1"
+       id="path2-3"
+       cx="103.73137"
+       cy="227.90324"
+       rx="25.616886"
+       ry="24.26141" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.35px;font-family:Futura;-inkscape-font-specification:'Futura, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#ececec;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:2.30435;stroke-dasharray:none;stroke-opacity:1"
+       x="97.18911"
+       y="229.80936"
+       id="text3-0"
+       transform="scale(0.96185023,1.0396629)"><tspan
+         sodipodi:role="line"
+         id="tspan3-8"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.35px;font-family:Futura;-inkscape-font-specification:'Futura, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#ececec;fill-opacity:1;stroke:none;stroke-width:2.30435"
+         x="97.18911"
+         y="229.80936">% pass</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:8.46667px;font-family:Futura;-inkscape-font-specification:'Futura, Normal';text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#ececec;fill-rule:evenodd;stroke-width:5.56699"
+       x="103.8271"
+       y="217.25067"
+       id="text4-4"><tspan
+         sodipodi:role="line"
+         id="tspan4-0"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.46667px;font-family:Futura;-inkscape-font-specification:'Futura, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;stroke-width:5.567"
+         x="103.8271"
+         y="217.25067">#</tspan><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.46667px;font-family:Futura;-inkscape-font-specification:'Futura, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;stroke-width:5.567"
+         x="103.8271"
+         y="227.83401"
+         id="tspan5-4">tests</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444px;font-family:Futura;-inkscape-font-specification:'Futura, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;writing-mode:lr-tb;direction:ltr;text-anchor:middle;fill:#cccccc;fill-rule:evenodd;stroke-width:5.56699"
+       x="102.81568"
+       y="268.47388"
+       id="text6-6"><tspan
+         sodipodi:role="line"
+         id="tspan6-4"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444px;font-family:Futura;-inkscape-font-specification:'Futura, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#cccccc;stroke-width:5.567"
+         x="102.81568"
+         y="268.47388">Color legend, # of tests - pass, fail, pending</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444px;font-family:Futura;-inkscape-font-specification:'Futura, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;writing-mode:lr-tb;direction:ltr;text-anchor:middle;fill:#cccccc;fill-rule:evenodd;stroke-width:5.56699"
+       x="81.884674"
+       y="276.90793"
+       id="text7-6"><tspan
+         sodipodi:role="line"
+         id="tspan7-4"
+         style="fill:#cccccc;stroke-width:5.567"
+         x="81.884674"
+         y="276.90793">Defects reported and status</tspan></text>
+  </g>
+</svg>

@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="297mm"
+   height="210mm"
+   viewBox="0 0 297 210"
+   version="1.1"
+   id="svg1"
+   inkscape:version="1.4.2 (ebf0e940, 2025-05-08)"
+   sodipodi:docname="fonts.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#505050"
+     bordercolor="#eeeeee"
+     borderopacity="1"
+     inkscape:showpageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#505050"
+     inkscape:document-units="mm"
+     inkscape:zoom="0.87838103"
+     inkscape:cx="571.50597"
+     inkscape:cy="399.59879"
+     inkscape:window-width="1808"
+     inkscape:window-height="1135"
+     inkscape:window-x="0"
+     inkscape:window-y="25"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs1">
+    <linearGradient
+       id="linearGradient7"
+       inkscape:collect="always">
+      <stop
+         style="stop-color:#1f2833;stop-opacity:1;"
+         offset="0.68911922"
+         id="stop7" />
+      <stop
+         style="stop-color:#1f2833;stop-opacity:0;"
+         offset="1"
+         id="stop8" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient5"
+       inkscape:collect="always">
+      <stop
+         style="stop-color:#5e5e5e;stop-opacity:0.6570248;"
+         offset="0"
+         id="stop5" />
+      <stop
+         style="stop-color:#000000;stop-opacity:0;"
+         offset="1"
+         id="stop6" />
+    </linearGradient>
+    <rect
+       x="119.5381"
+       y="154.83031"
+       width="733.29731"
+       height="134.24173"
+       id="rect2" />
+    <rect
+       x="119.5381"
+       y="154.83031"
+       width="942.73938"
+       height="108.3986"
+       id="rect2-2" />
+    <rect
+       x="119.5381"
+       y="154.83031"
+       width="765.88485"
+       height="111.18329"
+       id="rect2-1" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient5"
+       id="linearGradient6"
+       x1="18.374237"
+       y1="104.8276"
+       x2="278.62576"
+       y2="104.8276"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient7"
+       id="linearGradient8"
+       x1="18.078705"
+       y1="104.8276"
+       x2="278.92129"
+       y2="104.8276"
+       gradientUnits="userSpaceOnUse" />
+  </defs>
+  <rect
+     style="fill:#0b0c10;fill-opacity:1;fill-rule:evenodd;stroke-width:0.702986"
+     id="rect1-4"
+     width="299.40976"
+     height="212.96045"
+     x="-1.2048798"
+     y="-0.87914687" />
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <rect
+       style="fill:url(#linearGradient8);fill-opacity:1;fill-rule:evenodd;stroke-width:0.591064;stroke:url(#linearGradient6)"
+       id="rect1"
+       width="260.25153"
+       height="173.1998"
+       x="18.374237"
+       y="18.227705" />
+    <text
+       xml:space="preserve"
+       transform="matrix(0.16734911,0,0,0.19215547,42.325021,10.807799)"
+       id="text1"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:74.6667px;font-family:Futura;-inkscape-font-specification:'Futura, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect2);fill:#d258bc;fill-opacity:1;fill-rule:evenodd;stroke-width:1.4778"><tspan
+         x="119.53906"
+         y="220.94507"
+         id="tspan3">this font is futura</tspan></text>
+    <text
+       xml:space="preserve"
+       transform="matrix(0.21649207,0,0,0.21284915,36.54499,53.479533)"
+       id="text1-5"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:74.6667px;font-family:'Arial Rounded MT Bold';-inkscape-font-specification:'Arial Rounded MT Bold, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect2-2);fill:#d258bc;fill-opacity:1;fill-rule:evenodd;stroke-width:1.4778"><tspan
+         x="119.53906"
+         y="222.11659"
+         id="tspan4">this font is ariel rounded</tspan></text>
+    <text
+       xml:space="preserve"
+       transform="matrix(0.25028593,0,0,0.27493017,32.551698,90.595909)"
+       id="text1-1"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:74.6667px;font-family:Serif;-inkscape-font-specification:'Serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect2-1);fill:#d258bc;fill-opacity:1;fill-rule:evenodd;stroke-width:1.4778"><tspan
+         x="119.53906"
+         y="221.1058"
+         id="tspan5">this font is serif</tspan></text>
+    <ellipse
+       style="fill:#45a29e;fill-opacity:1;fill-rule:evenodd;stroke-width:0.391001"
+       id="path5"
+       cx="53.466022"
+       cy="49.399593"
+       rx="3.4639959"
+       ry="3.6146045" />
+    <ellipse
+       style="fill:#45a29e;fill-opacity:1;fill-rule:evenodd;stroke-width:0.391001"
+       id="path5-0"
+       cx="53.466022"
+       cy="97.443863"
+       rx="3.4639959"
+       ry="3.6146045" />
+    <ellipse
+       style="fill:#45a29e;fill-opacity:1;fill-rule:evenodd;stroke-width:0.391001"
+       id="path5-01"
+       cx="53.466022"
+       cy="145.48813"
+       rx="3.4639959"
+       ry="3.6146045" />
+  </g>
+</svg>

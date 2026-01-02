@@ -1,0 +1,39 @@
+{
+  "meta": {
+    "project": "Test Results Dashboard",
+    "environment": "QA",
+    "timestamp": "2026-01-01T14:32:00",
+    "overallStatus": "PASS"
+  },
+  "summary": {
+    "totalTests": 34
+  },
+  "projects": [
+    {
+      "name": "SauceDemo Automation Testing",
+      "tests": {
+        "pass": 18,
+        "fail": 2,
+        "pending": 1
+      },
+      "defects": {
+        "todo": 2,
+        "inProgress": 1,
+        "completed": 4
+      }
+    },
+    {
+      "name": "API Testing",
+      "tests": {
+        "pass": 10,
+        "fail": 0,
+        "pending": 3
+      },
+      "defects": {
+        "todo": 1,
+        "inProgress": 0,
+        "completed": 2
+      }
+    }
+  ]
+}
