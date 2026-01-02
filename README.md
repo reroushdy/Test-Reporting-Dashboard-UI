@@ -11,6 +11,7 @@ In Progress
 This project currently uses mock test data and static UI layouts. It is designed to evolve alongside my automation, API testing, and CI/CD projects.
 
 ## Structure
+```
 Test-Reporting-Dashboard
 │
 ├── requirements.txt
@@ -37,6 +38,7 @@ Test-Reporting-Dashboard
 │
 └── Notes/
     └── design-decisions.md
+```
 
 ## Scope
 - Static UI (HTML,CSS, SVG, JavaScript)
