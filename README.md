@@ -1,14 +1,25 @@
-# Test Reporting Dashboard UI
+# Test Reporting Dashboard UI 📊
+
+🔗 **Live Demo:**  
+👉 https://reroushdy.github.io/Test-Reporting-Dashboard-UI/
+
+---
 
 ## Overview
 A UI design project exploring clearer, more actionable ways to present automated test results from UI and API test suites.
 
 ## Purpose
-Automated tests generate valuable data, but reports are often difficult to scan quickly. This project focuses on improving readability, visual hierarchy, and at-a-glance status awareness to support faster triage and better decision-making.
+Automated tests generate valuable data, but reports are often difficult to scan quickly. This project focuses on improving **readability**, **visual hierarchy**, and **at-a-glance status awareness** to support faster triage and better decision-making.
 
-## Project Status
-In Progress
-This project currently uses mock test data and static UI layouts. It is designed to evolve alongside my automation, API testing, and CI/CD projects.
+## Project Status 🚧
+**In Progress**
+
+This dashboard currently uses mock test data and static layouts. It is intentionally designed to evolve alongside my:
+- UI automation projects
+- API testing work
+- CI/CD pipeline integrations
+
+---
 
 ## Structure
 ```
@@ -30,7 +41,7 @@ Test-Reporting-Dashboard
 │   └── High-Fidelity/
 │       └── reporting-dashboard.svg
 │
-├── UI/
+├── docs/
 │   ├── index.html
 │   ├── styles.css
 │   ├── dashboard.js
@@ -40,20 +51,29 @@ Test-Reporting-Dashboard
     └── design-decisions.md
 ```
 
-## Scope
-- Static UI (HTML,CSS, SVG, JavaScript)
-- Uses mock JSON test data
-- Inspired by real UI and API automation test outputs
-- Focus on clarity, hierarchy, and error visibility
+---
 
-## Tools
-- HTML / CSS (CSS variables, semantic structure)
+## Scope 🎯
+- Static UI built with **HTML, CSS, SVG, and JavaScript**
+- Uses **mock JSON test data**
+- Inspired by real UI and API automation test outputs
+- Emphasis on:
+  - Clear status communication
+  - Visual grouping
+  - Error and defect visibility
+
+---
+
+## Tools & Technologies 🛠️
+- HTML / CSS (semantic structure, CSS variables)
 - Vanilla JavaScript
-- SVG for visualizations
+- SVG (donut charts and indicators)
 - Mock JSON data
 - Inkscape (wireframes and high-fidelity designs)
 
-## Future Enhancements
+---
+
+## Future Enhancements 🚀
 - Connect to real test output files (Robot Framework, API tests)
-- Add CI pipeline integration
-- Interactive filtering, historical views and trends
+- CI/CD pipeline integration
+- Interactive filtering and historical trends
